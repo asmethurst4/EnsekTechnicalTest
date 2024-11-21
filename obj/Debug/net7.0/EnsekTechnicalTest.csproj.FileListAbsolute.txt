@@ -1,0 +1,5 @@
+D:\EnsekTechnicalTest\obj\Debug\net7.0\EnsekTechnicalTest.csproj.AssemblyReference.cache
+D:\EnsekTechnicalTest\obj\Debug\net7.0\EnsekTechnicalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\EnsekTechnicalTest\obj\Debug\net7.0\EnsekTechnicalTest.AssemblyInfoInputs.cache
+D:\EnsekTechnicalTest\obj\Debug\net7.0\EnsekTechnicalTest.AssemblyInfo.cs
+D:\EnsekTechnicalTest\obj\Debug\net7.0\EnsekTechnicalTest.csproj.CoreCompileInputs.cache
